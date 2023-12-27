@@ -119,8 +119,14 @@ else:
 
 ```
 ## Sample Input and Output
+i.Use a linear Search method to match the item in a list
+![image](https://github.com/PYNAMVINODH/Search-Algorithm/assets/145742678/2b637e98-b9c3-4b2f-94f2-382bb064766e)
 
+ii.Find the element in a list using Binarysearch(Iterative Method)
+![image](https://github.com/PYNAMVINODH/Search-Algorithm/assets/145742678/4b75d9c4-cec9-4023-b3ec-a4c4dd37154d)
 
+iii.Find the element in a list using BinarySearch (recursive Method)
+![image](https://github.com/PYNAMVINODH/Search-Algorithm/assets/145742678/73893d60-b364-4335-be68-60204120eaff)
 
 
 
